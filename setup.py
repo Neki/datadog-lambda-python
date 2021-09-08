@@ -31,7 +31,7 @@ setup(
     install_requires=[
         "aws-xray-sdk==2.8.0",
         "datadog==0.41.0",
-        "ddtrace==0.50.0",
+        "ddtrace==0.52.1",
         "wrapt==1.11.2",
         # If building for Python 3, use the latest version of setuptools
         "setuptools>=54.2.0; python_version >= '3.0'",
